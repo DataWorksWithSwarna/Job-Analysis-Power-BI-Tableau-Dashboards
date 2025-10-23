@@ -1,4 +1,4 @@
-# Job Analysis Dashboards w/ Power BI
+# Job Analysis Dashboards w/ Power BI & Tableau
 
 ## Introduction~
 
@@ -19,6 +19,8 @@ The goal of this project is to enable data-driven decision-making for **job seek
 - Implementing **dynamic filters, conditional formatting, and data-driven insights**.
 
 - Using Power BI themes and layout design principles for a professional dashboard.
+
+- Also using Tableau.
 
 
 
@@ -42,6 +44,9 @@ This shows more drill through analysis of the page 1 with respect to a perticula
 Diving deep into star schemas, explicit parameters, DAX functions and more ...
 
 ![Dashboard 2 Page 2](/Dashboard%20Images/Dashboard%202%20Page%202.png)
+
+# Tableau
+![Dashboard 1 Page 1](Job-Analysis-Tableau.png)
 
 
 ## Insights Gained for the Analysis~
